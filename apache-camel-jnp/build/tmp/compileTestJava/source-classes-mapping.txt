@@ -1,0 +1,2 @@
+com/example/apachecameljnp/ApacheCamelJnpApplicationTests.java
+ com.example.apachecameljnp.ApacheCamelJnpApplicationTests
